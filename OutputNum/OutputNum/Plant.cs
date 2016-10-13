@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OutputNum
 {
-    class Plant
+    public class Plant
     {
         public string Common { get; set; }
         public string Botanical { get; set; }
